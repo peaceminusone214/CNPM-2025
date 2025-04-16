@@ -10,7 +10,7 @@
 }
 /* Custom Variable CSS */
 :root {
-    --sherah-primary-color: #D19C97;
+    --sherah-primary-color: #00B074;
     --sherah-primary-offset-color:#eac18d;
     --sherah-secondary-color: #09AD95 ;
     --sherah-third-color: #FF6767 ;
@@ -88,7 +88,7 @@ p {
 	font-size: 16px;
 }
 a {
-	color: #D19C97;
+	color: #00B074;
 }
 a,button{
 	font-weight:700;
@@ -166,13 +166,13 @@ textarea::-ms-input-placeholder,input::-ms-input-placeholder {
 
 
 .sherah-color1{
-    color:#D19C97 !important;
+    color:#00B074 !important;
 }
 .sherah-color1__fill{
-    fill: #D19C97 !important;
+    fill: #00B074 !important;
 }
 .sherah-color1__bg{
-    background:#D19C97 !important;
+    background:#00B074 !important;
 }
 .sherah-color1__bg--offset{
     background:  #eac18d;
@@ -247,7 +247,7 @@ textarea::-ms-input-placeholder,input::-ms-input-placeholder {
 	border: none;
 	font-size: 14px;
 	position: relative;
-	background: #D19C97;
+	background: #00B074;
 	font-size: 18px;
 	color: #fff;
 	align-items: center;
@@ -263,7 +263,7 @@ textarea::-ms-input-placeholder,input::-ms-input-placeholder {
     fill: #fff;
 }
 .sherah-btn__white svg{
-    fill: #D19C97 !important;
+    fill: #00B074 !important;
 }
 .sherah-btn:hover,.sherah-btn:active,.sherah-btn:hover {
 	color: #fff;
@@ -275,12 +275,12 @@ textarea::-ms-input-placeholder,input::-ms-input-placeholder {
 	background: transparent;
 }
 .sherah-btn.default:hover{
-	background: #D19C97;;
+	background: #00B074;;
     color:#fff;
 
 }
 .sherah-btn.sherah-btn__primary {
-	background: #D19C97;
+	background: #00B074;
 }
 .sherah-btn.sherah-btn__secondary{
     background-color:  var(--sherah-secondary-color) ;
@@ -1097,7 +1097,7 @@ object {
 	color: #E5E8FE;
 }
 .slick-arrow:hover{
-    color:#D19C97;
+    color:#00B074;
 }
 .Prev.slick-arrow {
 	right: 25px;
@@ -1120,7 +1120,7 @@ object {
 	box-shadow: none;
 }
 .sherah-btn.trs-white.bl-color:hover {
-	color: #D19C97;
+	color: #00B074;
 }
 .sherah-btn.sherah-btn__nostyle {
 	background: transparent;
